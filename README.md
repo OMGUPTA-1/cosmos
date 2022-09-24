@@ -33,7 +33,4 @@ A React application built as part of the shopify-challenge.
   ```
   npm build
   ```
-
-## Hosting
-You can view the live project [here](https://divyanshfalodiya.github.io/shopify-challenge/)
  
