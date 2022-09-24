@@ -1,7 +1,7 @@
 # COSMOS (Web)
 
 ## Description
-A React application built as part of the shopify-challenge.
+A React application utilizing Nasa APIs.
 
 ## Features
 - Like / "Un"-like a post.
